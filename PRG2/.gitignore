@@ -1,0 +1,6 @@
+/Debug
+/x64
+/PRG2/*
+!/PRG2/*.cpp
+!/PRG2/*.h
+/*.sln
